@@ -1,0 +1,15 @@
+add_movie_gui.exe
+add_movie_gui.pkg
+add_movie_gui.spec
+
+
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
