@@ -11,8 +11,6 @@ from openpyxl import load_workbook
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 
-api_key = "f182ce56"
-# Function to handle saving a new movie
 
 
 def save_movie():
